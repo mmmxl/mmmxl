@@ -1,1 +1,1 @@
-👋Hello. I'm Meng Xianglei,😎 and I'm a data engineer.🧐
+👋Hello. I'm Meng Xianglei,😎 a data engineer.🧐
